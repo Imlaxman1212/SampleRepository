@@ -2,5 +2,6 @@
     <element label="sampletable" max_length="40" name="x_354793_spam_sampletable" type="collection">
         <element label="Col1" max_length="40" name="col1" type="integer"/>
         <element label="Col2" max_length="40" name="col2" type="integer"/>
+        <element label="fdfgd" max_length="40" name="fdfgd" type="integer"/>
     </element>
 </database>
